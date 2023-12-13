@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #fff;
+}
+.News-card {
+  background-color: azure;
+  border: 1px #f00 solid;
+}
+.News-card.red p {
+  background-color: aquamarine;
+  border: 1px #000 solid;
+}
+.News-card h1 {
+  color: burlywood;
+}
+/* .News-card p {
+    color: brown;
+  } */
+.p {
+  font-size: 2em;
+  color: aquamarine;
+  font-weight: 700;
+}
+.News-card.blue {
+  color: blue;
+}

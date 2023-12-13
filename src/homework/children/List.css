@@ -1,0 +1,15 @@
+.section-item {
+  margin-bottom: 2rem;
+  padding: 1rem;
+}
+
+.items {
+  list-style-type: disc;
+  padding-left: 2rem;
+}
+.title {
+  font-size: 2rem;
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid #aaa;
+}
